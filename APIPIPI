@@ -23,11 +23,6 @@
     {
       "id_app": "1386042",
       "type": "unity"
-    },
-    {
-      "id_app": "5c301e2a1d56100bbba4021f",
-      "app_signature": "607a80445680ecc2b797d3aa0b5b0963d3549403",
-      "type": "charboost"
     }
   ]
 }
