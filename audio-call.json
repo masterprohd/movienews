@@ -1,0 +1,49 @@
+{
+      "audiocall": [
+       {
+          "audio": "https://github.com/masterprohd/movienews/raw/master/Santa.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i1.png",
+          "name": "Santa calls for girl"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_meals_nice.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i2.png",
+          "name": "call_meals_nice"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_bed_naughty.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i4.png",
+          "name": "call_bed_naughty"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_bed_nice.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i5.png",
+          "name": "call_bed_nice"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_behaviour_naughty.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i6.png",
+          "name": "call_behaviour_naught"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_behaviour_nice.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i7.png",
+          "name": "call_behaviour_nice"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_homework_naughty.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i8.png",
+          "name": "call_homework_naughty"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_homework_nice.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i9.png",
+          "name": "call_homework_nice"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_meals_naughty.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i10.png",
+          "name": "call_meals_naughty"
+        },{
+          "audio": "https://github.com/masterprohd/movienews/raw/master/call_teeth_naughty.mp3",
+          "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i11.png",
+          "name": "call_teeth_naughty"
+        },{
+            "audio": "https://github.com/masterprohd/movienews/raw/master/call_teeth_nice.mp3",
+            "cover": "https://raw.githubusercontent.com/masterprohd/movienews/master/i3.png",
+            "name": "call_teeth_nice"
+        }
+      ]
+}
